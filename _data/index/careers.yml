@@ -1,29 +1,113 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: ThoughtWorks
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: As a Senior ConsultantI at ThoughtWorks I had to improve client's software encouraging agile best practices in order to deliver value constantly.
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Jan. 2019
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Senior Consultant
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: Digital Origin
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: As a Chapter Lead I had to support developers both in their personal and technical growth.
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Jan. 2017
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Ruby Chapter Lead
     i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Digital Origin
+    i18n: company_c
+  desc:
+    detail: As a Senior Developer I built multiple ruby microservices using Rails and Sinatra.
+    i18n: company_c_desc
+  date:
+    detail: Mar. 2015
+    i18n: company_c_date
+  job:
+    detail: Senior Developer
+    i18n: company_c_job
+  icon: fa-plus-square
+
+- name:
+    detail: Opscaling
+    i18n: company_d
+  desc:
+    detail: As a Junior Developer...
+    i18n: company_d_desc
+  date:
+    detail: Sep. 2014
+    i18n: company_d_date
+  job:
+    detail: Junior Developer
+    i18n: company_d_job
+  icon: fa-plus-square
+
+- name:
+    detail: PushTech
+    i18n: company_e
+  desc:
+    detail: As a Junior Developer...
+    i18n: company_e_desc
+  date:
+    detail: Feb. 2014
+    i18n: company_e_date
+  job:
+    detail: Junior Developer
+    i18n: company_e_job
+  icon: fa-plus-square
+
+- name:
+    detail: Ingravity Media
+    i18n: company_f
+  desc:
+    detail: As a Junior Developer...
+    i18n: company_f_desc
+  date:
+    detail: Jul. 2013
+    i18n: company_f_date
+  job:
+    detail: Junior Developer
+    i18n: company_f_job
+  icon: fa-plus-square
+
+- name:
+    detail: Sener
+    i18n: company_g
+  desc:
+    detail: As a Junior Developer...
+    i18n: company_g_desc
+  date:
+    detail: Feb. 2013
+    i18n: company_g_date
+  job:
+    detail: Internship
+    i18n: company_g_job
+  icon: fa-plus-square
+
+- name:
+    detail: Telefónica Digital
+    i18n: company_h
+  desc:
+    detail: As a Junior Developer...
+    i18n: company_h_desc
+  date:
+    detail: Jul. 2011
+    i18n: company_h_date
+  job:
+    detail: Internship
+    i18n: company_h_job
   icon: fa-plus-square

@@ -1,22 +1,30 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Javi
-  i18n: javi
-  gh_user: jarrekk
-  repo: Javi
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+- name: FCBarcelona
+  i18n: fcbarcelona
+  gh_user: jmolina91
+  url: https://www.fcbarcelona.com
+  # repo: 
+  img: /static/assets/img/landing/fcb.png
+  desc: A CMS to manage FCBarcelona web application allowing them to customize and distribute the content.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+- name: PagaMasTarde
+  i18n: pmt
+  gh_user: jmolina91
+  url: https://www.pagamastarde.com/
+  # repo: 
+  img: /static/assets/img/landing/pmt.png
+  desc: A distributed application that allows customers to easily get a loan to pay a product in different instalments.
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: QueBueno
+  i18n: qb
+  url: https://www.quebueno.es/
+  img: /static/assets/img/landing/quebueno.png
+  desc: Web application to grant small loans to customers based on their profile.
+
+- name: PushTech
+  i18n: push_tech
+  url: https://www.pushtech.com
+  img: /static/assets/img/landing/pushtech.png
+  desc: Marketing web application to send massive campaign communications through email or app notifications. 

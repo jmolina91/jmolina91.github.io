@@ -46,7 +46,7 @@
     detail: Opscaling
     i18n: company_d
   desc:
-    detail: As a Junior Developer...
+    detail: Developing a CMS based on Ruby on Rails and managing clients expectations.
     i18n: company_d_desc
   date:
     detail: Sep. 2014
@@ -60,7 +60,7 @@
     detail: PushTech
     i18n: company_e
   desc:
-    detail: As a Junior Developer...
+    detail: Implementing a service to manage a big amount of notifications using Ruby on Rails and asynchronous job processing using MongoDb.
     i18n: company_e_desc
   date:
     detail: Feb. 2014
@@ -74,7 +74,7 @@
     detail: Ingravity Media
     i18n: company_f
   desc:
-    detail: As a Junior Developer...
+    detail: Developing a REST API using Ruby on Rails and Postgresql for a mobile application.
     i18n: company_f_desc
   date:
     detail: Jul. 2013
@@ -88,7 +88,7 @@
     detail: Sener
     i18n: company_g
   desc:
-    detail: As a Junior Developer...
+    detail: Participating in a Java web service in charge of managing electric consumption of a train network.
     i18n: company_g_desc
   date:
     detail: Feb. 2013
@@ -102,7 +102,7 @@
     detail: Telefónica Digital
     i18n: company_h
   desc:
-    detail: As a Junior Developer...
+    detail: Mostly learning how software development companies work. Using multiple languages like Python or Java to build REST APIs or movie recommended systems.
     i18n: company_h_desc
   date:
     detail: Jul. 2011

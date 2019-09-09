@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My journey at ThoughtWorks Spain  after some months"
+title: "ThoughtWorks Spain, a modern consultancy"
 date: 2019-09-09
 desc: "About my experience at ThoughtWorks after 8 months"
 keywords: "Developer, Programming, Software"
@@ -9,7 +9,7 @@ tags: [sw, developers, engineer]
 icon: icon-html
 ---
 
-By the 7th of January I joined ThoughtWorks Spain as Senior Consultant. For those who don’t know the company, ThoughtWorks is a 25 years old international consultancy known for the high-quality software they deliver following good practices such as TDD or Pair Programming (and because of Martin Fowler, of course). After 8 months working in two different clients and three projects, I thought it would be great to write some lines around what were the expectations I had about this company and how they have been satisfied or not.
+I joined ThoughtWorks Spain the 7th of January as Senior Consultant. For those who don’t know the company, ThoughtWorks is a 25 years old international consultancy known for the high-quality software they deliver following good practices such as TDD or Pair Programming (and because of Martin Fowler, of course). After 8 months working in two different clients and three projects, I thought it would be great to write some lines around what were the expectations I had about this company and how they have been satisfied or not.
 <br/><br/>
 
 ## Full Stack Developer
@@ -21,7 +21,7 @@ During my 9 months, I have been working with different types of applications (se
 
 ## Agile Mindset
 
-In most of my previous companies, I’ve been working on an “agile” way but, as usually happens, you don’t know if you are doing it in the right way or not. When I joined ThoughtWorks I expected to see the perfect way of doing Scrum or Kanban since Martin Fowler, the Chief Scientist Office, was one of the creators of the Agile Manifesto.
+In most of my previous companies, I’ve been working on an “agile” way but, as usually happens, you don’t know if you are doing it in the right way or not. When I joined ThoughtWorks I expected to see the perfect way of doing Scrum, Kanban or XP since Martin Fowler, the Chief Scientist Office, was one of the creators of the Agile Manifesto.
 
 The main thing I have learnt at ThoughtWorks is that Agile is not about Scrum or Kanban, it is about being moving quickly towards goal getting feedback constantly. That being said, I have worked with both Scrum and Kanban at ThoughtWorks but none of them was implemented by the book, instead, we have followed a custom approach adapted to the team I was working in.
 <br/><br/>

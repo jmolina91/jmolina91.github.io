@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My journey at ThoughtWorks Spain  after some months"
-date: 2019-08-01
+date: 2019-09-09
 desc: "About my experience at ThoughtWorks after 8 months"
 keywords: "Developer, Programming, Software"
 categories: [software development]

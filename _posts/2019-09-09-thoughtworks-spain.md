@@ -12,7 +12,7 @@ icon: icon-html
 I joined ThoughtWorks Spain the 7th of January as Senior Consultant. For those who don’t know the company, ThoughtWorks is a 25 years old international consultancy known for the high-quality software they deliver following good practices such as TDD or Pair Programming (and because of Martin Fowler, of course). After 8 months working in two different clients and three projects, I thought it would be great to write some lines around what were the expectations I had about this company and how they have been satisfied or not.
 <br/><br/>
 
-## Full Stack Developer
+## Full Stack Development
 
 One of the reasons why I joined ThoughtWorks was to expand my technical breadth. To me, it means learning more programming languages and technologies, working with different architectures and setting up different applications. As a software engineer, I felt that the more tech breadth you have as a developer, the more tools you will have available in order to solve a problem. Moreover, as an Agile practitioner, I wanted to be part of a real Cross-functional team to be able to develop a feature from the beginning until the end (frontend, backend and infrastructure).
 

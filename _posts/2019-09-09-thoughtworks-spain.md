@@ -41,4 +41,4 @@ And sincerely, People here are amazing! As I said I have been working on three d
 
 ## Conclusion
 
-It has already been 8 months at ThoughtWorks and I can say that the change I made in my career has been fruitful. I moved from being a Lead in my previous company to become Senior Developer again so that I could reinforce my tech skills. So far, I have worked at ThoughtWorks with many different programming languages, I have improved my knowledge in Agile and I have practised some of the best practises that help you to develop high-quality code. So far so good!
+It has already been 8 months at ThoughtWorks and I can say that the change I made in my career has been fruitful. I moved from being a Lead in my previous company to become Senior Developer again so that I could reinforce my tech skills. So far, I have worked at ThoughtWorks with many different programming languages, I have improved my knowledge in Agile, I have practised some of the best practises that help you to develop high-quality code and I have met amazing people. So far so good!

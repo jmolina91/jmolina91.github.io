@@ -5,16 +5,16 @@
   i18n: fcbarcelona
   gh_user: jmolina91
   url: https://www.fcbarcelona.com
-  # repo: 
+  # repo:
   img: /static/assets/img/landing/fcb.png
   desc: A CMS to manage FCBarcelona web application allowing them to customize and distribute the content.
 
-- name: PagaMasTarde
+- name: ClearPay
   i18n: pmt
   gh_user: jmolina91
-  url: https://www.pagamastarde.com/
-  # repo: 
-  img: /static/assets/img/landing/pmt.png
+  url: https://www.clearpay.com/for-retailers/
+  # repo:
+  img: /static/assets/img/landing/clearpay.png
   desc: A distributed application that allows customers to easily get a loan to pay a product in different instalments.
 
 - name: QueBueno
@@ -27,4 +27,4 @@
   i18n: push_tech
   url: https://www.pushtech.com
   img: /static/assets/img/landing/pushtech.png
-  desc: Marketing web application to send massive campaign communications through email or app notifications. 
+  desc: Marketing web application to send massive campaign communications through email or app notifications.

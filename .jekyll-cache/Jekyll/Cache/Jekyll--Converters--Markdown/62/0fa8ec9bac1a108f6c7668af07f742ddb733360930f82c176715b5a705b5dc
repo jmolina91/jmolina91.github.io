@@ -1,0 +1,60 @@
+I"2<h2 id="introduction">Introduction</h2>
+<p>Nowadays, still a lot of companies struggle to deliver software quickly and efficiently, and you ,as a developer, might be wondering why this is happening in your organization as well.</p>
+
+<p>In today’s posts we will talk about the Five Ideals that are explained in “The Unicorn Project”. Those ideals are five aspects that your company needs to implement in all the teams so that, on one side, the customer features that you develop are the ones that the customers actually need and, on the other side, that they are delivered in a flow manner.</p>
+
+<p>For each ideal we will explain what is the current problem we might be facing and how to properly address it with real examples. Let’s check it out!</p>
+
+<h2 id="the-first-ideal-locality-and-simplicity">The First ideal: Locality and Simplicity</h2>
+<p>Locality in our organizations allows teams to make decisions without having to communicate and coordinate with people outside the team. For that to be possible, the simpler your system is, the easier would be for your team to own it.</p>
+
+<h3 id="the-problem">The problem</h3>
+<p>Imagine that you want to develop a feature in your product to display new customer information in the Customer Backoffice and for that you need an endpoint in the backend to query the data, the API needs to retrieve information from a new column that needs to be created into the database to store this value and, of course, all this needs to be tested and deployed.</p>
+
+<p>When there is no Locality, it might happen that every team owns one piece of this process, meaning that the frontend developer needs to wait for the backend developer, who is in the Backend Team, to provide the endpoint, that at the same time needs to wait for the Database Team to create a new column in the database. Then, you send your artifact to QA Team to test it and finally to the Devops Team to deploy it to production.</p>
+
+<p>Communicating to all these people is not only exhausting, but also most of those people will be waiting for another team to finish something, which at the it ends ends up in delaying the implementation of the feature.</p>
+
+<h3 id="the-solution">The solution</h3>
+<p>If we want to reduce the communication between teams, instead of splitting the teams by area of expertise, we should split them by the domain area they work on, or bounded contexts ,as <strong>Domain-Driven Design</strong> (DDD) (link) explains. Let’s assume that the company we were talking about was a financial company, the Customer Backoffice team should be in charge of delivering value when it comes to showing the proper data to the customer and the current status of their loans, whereas the Merchant Backoffice team should be a completely independent team in charge of allowing the merchant to properly operate.</p>
+
+<p>Another imporant aspect to achieve Locality is to have <strong>Cross-Functional teams</strong> where every team has enough people to deliver the proper value, not only developers, but also product people or even domain experts. Like this, there is no need to request for help externally and the time that the team needs to wait gets reduced, and therefore, the delivery happens faster.</p>
+
+<h2 id="the-second-ideal-focus-flow-and-joy">The Second ideal: Focus, Flow and Joy</h2>
+<p>Focus, Flow and Joy refer to how challenging and interesting your daily work is.</p>
+<h3 id="the-problem-1">The problem</h3>
+<p>Have you ever seen yourself blindly working on small pieces of the whole, only seeing the outcomes of your work after three more teams have finished and during a deployment when everything blows up? Or, have you ever worked in tasks that take two weeks or one month to complete? These situations, most likely, will make you feel bored or fustrated which could derive in lower motivation and therefore slow delivery.</p>
+
+<p>On the other hand, we do not perform repetitive tasks as engineers, but instead, we resolve different complex problems almost every day. However, you might have been in organizations where there was no space for learning and growing your capabilities which lead to a non-enjoyable environemnt.</p>
+
+<h3 id="the-solution-1">The solution</h3>
+<p>Working in <strong>small-batches</strong> where you can see the value of what you are developing by deploying to production very often without depending to anyone else and also reducing the <strong>Work In Progress</strong> (WIP) cause a feeling of satisfaction and therefore high motivation which is known as <strong>Flow</strong>(link) state.</p>
+
+<p>In order for the engineers to feel challenged and grow their skills it is necessary to provide them a space for learning with <strong>trainings, workshops or talks</strong> within your company. Talk to 
+your CTO or your lead and convince them to invest time and money to improve developers skills; the company will benefit from it in a mid/long-term and people will be happier.</p>
+
+<h2 id="the-third-ideal-improvement-of-daily-work">The Third ideal: Improvement of Daily Work</h2>
+
+<h3 id="the-problem-2">The problem</h3>
+
+<h3 id="the-solution-2">The solution</h3>
+
+<h2 id="the-fourth-ideal-psychological-safety">The Fourth ideal: Psychological Safety</h2>
+<p>Psychological Safety is about making it safe for everyone in the company to talk about problems without being afraid of being punished for making a mistake.</p>
+
+<h3 id="the-problem-3">The problem</h3>
+<p>In one of the companies I worked at, we had a Post-mortem(link) about an incident that ocurred that made us loose some money. Once the issue was fixed, the CTO put together everyone that could be involved in the outage (developers, sysadmins and product people) and ask who made the mistake. The person who made it did not say anything at first becuase they were afraid of being punished, but after some days they confessed. What did the company do? Fire them!</p>
+
+<p>If you were an empoloyeee of this company your very first though would be: “If I mess it up at some point I am not going to say anything because I don’t want to loose my job” which means that employee stop being honest with company.</p>
+
+<p>However, when an outage like the one mentioned above happens, you need to find a way to prevent it from not happening again, and that needs honesty from people to talk in front of everyone else assuming they made a mistake and explain openly what and how everyhing happened to find a propre solution.</p>
+
+<h3 id="the-solution-3">The solution</h3>
+
+<h2 id="the-fifth-ideal-customer-focus">The Fifth ideal: Customer focus</h2>
+<h3 id="the-problem-4">The problem</h3>
+
+<h3 id="the-solution-4">The solution</h3>
+
+<h2 id="conclusion">Conclusion</h2>
+:ET

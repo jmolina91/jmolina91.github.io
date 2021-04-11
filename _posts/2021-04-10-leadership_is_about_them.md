@@ -19,6 +19,7 @@ Therefore, in order to accomplish that I would have to learn a lot about program
 
 8 years later I started leading people in a software team and after almost 3 years doing it I can say that my experience has been totally different from what I thought it would be, and here is why:
 
+<hr>
 
 ## Leaders do not need to know everything
 
@@ -26,6 +27,7 @@ In a team, there is a lot of communication and a lot of information is flowing. 
 
 <b>A good team leader should help the teams to perform better regardless of the specific technologies the team uses.</b>
 
+<hr>
 
 ## Team members are in charge of the results, you are not
 
@@ -35,6 +37,7 @@ However, I have to admit that one reason why writing code is good for a team lea
 
 <b>Leaders should make developers life simpler and remove blockers so that they can accomplish the best results.</b>
 
+<hr>
 
 ## Their objectives are your objective
 As we know, a team is composed of people and people is always different. Therefore, although most of the "leadership skills" can be applied to every team, not every team can be lead in the same way.
@@ -43,6 +46,7 @@ Your mission as a leader is to serve your team. By improving your skills regardl
 
 <b>Think first about what the team is trying to achieve, and then come up with your objectives to satisfy their needs.</b>
 
+<hr>
 
 ## Conclusion
 Good leaders understand that they cannot master every technology in the world and that they cannot control every single movement within the team. They need to support their team members with any issue they might face so that they can accomplish their objectives and finally think about the team needs when it comes to improving your leadership skills, not only on what you need.

@@ -8,6 +8,9 @@ categories: [software development]
 tags: [sw, developers, engineer]
 icon: icon-html
 ---
+
+![alt text](leadership.jpeg "Leadership")
+
 Years ago I had my first interview to become a developer internship in a software company. They asked me: "Where do you want to be in the future?" and I clearly answer: "I want to lead a team of developers". I was about to start my journey as a developer so I didn't know anything about leadership.
 
 At this point in time, I thought that a good leader would be the one who knew the most in the team, making decisions on your own without asking anyone and telling the developers how to write code.

@@ -15,7 +15,7 @@
   icon: fa-plus-square
 
 - name:
-    detail: Digital Origin
+    detail: Pagantis
     i18n: company_b
   desc:
     detail: As a Chapter Lead I had to support developers both in their personal and technical growth.
@@ -29,7 +29,7 @@
   icon: fa-plus-square
 
 - name:
-    detail: Digital Origin
+    detail: Pagantis
     i18n: company_c
   desc:
     detail: As a Senior Developer I built multiple ruby microservices using Rails and Sinatra.

@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Ruby, Python, Go, TDD, AWS, Machine Learing, Docker, React, DDD, Scrum
-percentage: 90, 40, 40, 80, 60, 40, 50, 30, 60, 80
+aspects: Clean Code, Refactoring, Api Design, TDD, Agile, SW Architecture, Data Engineering, Machine Learning, Leadership
+percentage: 80, 80, 90, 80, 80, 80, 30, 40, 80

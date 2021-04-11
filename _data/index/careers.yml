@@ -4,13 +4,13 @@
     detail: ThoughtWorks
     i18n: company_a
   desc:
-    detail: As a Senior Consultant at ThoughtWorks I had to improve client's software encouraging agile best practices in order to deliver value constantly.
+    detail: As a Lead Consultant at ThoughtWorks I had to work with clients to improve their software encouraging agile best practices to deliver proper value iteratively.
     i18n: company_a_desc
   date:
     detail: Jan. 2019
     i18n: company_a_date
   job:
-    detail: Senior Consultant
+    detail: Lead Consultant
     i18n: company_a_job
   icon: fa-plus-square
 

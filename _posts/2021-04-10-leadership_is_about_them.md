@@ -8,8 +8,6 @@ categories: [software development]
 tags: [sw, developers, engineer]
 icon: icon-html
 ---
-# Leadership is not about you, it's about them
-
 Years ago I had my first interview to become a developer internship in a software company. They asked me: "Where do you want to be in the future?" and I clearly answer: "I want to lead a team of developers". I was about to start my journey as a developer so I didn't know anything about leadership.
 
 At this point in time, I thought that a good leader would be the one who knew the most in the team, making decisions on your own without asking anyone and telling the developers how to write code.
@@ -18,11 +16,13 @@ Therefore, in order to accomplish that I would have to learn a lot about program
 
 8 years later I started leading people in a software team and after almost 3 years doing it I can say that my experience has been totally different from what I thought it would be, and here is why:
 
+
 ## Leaders do not need to know everything
 
 In a team, there is a lot of communication and a lot of information is flowing. Even if you try hard you won't be able to know everything that is going on, and in case you do, your team members might probably feel micromanaged. That's why as a team leader, your mission is not to control everything but instead be aware of the status of the initiatives that the team is working on and be able to point to the right person for further details.
 
 <b>A good team leader should help the teams to perform better regardless of the specific technologies the team uses.</b>
+
 
 ## Team members are in charge of the results, you are not
 
@@ -32,12 +32,14 @@ However, I have to admit that one reason why writing code is good for a team lea
 
 <b>Leaders should make developers life simpler and remove blockers so that they can accomplish the best results.</b>
 
+
 ## Their objectives are your objective
 As we know, a team is composed of people and people is always different. Therefore, although most of the "leadership skills" can be applied to every team, not every team can be lead in the same way.
 
 Your mission as a leader is to serve your team. By improving your skills regardless of your team, you probably will get a better lead overall, but your team will not see any progress and therefore results won't get better.
 
 <b>Think first about what the team is trying to achieve, and then come up with your objectives to satisfy their needs.</b>
+
 
 ## Conclusion
 Good leaders understand that they cannot master every technology in the world and that they cannot control every single movement within the team. They need to support their team members with any issue they might face so that they can accomplish their objectives and finally think about the team needs when it comes to improving your leadership skills, not only on what you need.

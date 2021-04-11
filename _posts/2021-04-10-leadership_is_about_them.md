@@ -9,7 +9,7 @@ tags: [sw, developers, engineer]
 icon: icon-html
 ---
 
-![alt text](leadership.jpeg "Leadership")
+![alt text](/static/assets/img/leadership.jpeg "Leadership")
 
 Years ago I had my first interview to become a developer internship in a software company. They asked me: "Where do you want to be in the future?" and I clearly answer: "I want to lead a team of developers". I was about to start my journey as a developer so I didn't know anything about leadership.
 

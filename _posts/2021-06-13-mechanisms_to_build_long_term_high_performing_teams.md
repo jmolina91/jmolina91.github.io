@@ -8,10 +8,10 @@ categories: [software development]
 tags: [sw, developers, engineer]
 icon: icon-html
 ---
-<span align="center">
+<p align="center">
   <img width="650" height="500" src="/static/assets/img/team.jpeg">
-</span>
-<br/>
+</p>
+
 Have you ever seen yourself as a leader telling your developers exactly how a feature needed to be coded to follow a set of good practices? Or, have you ever been in a meeting with the team and the client and you are the first one providing a solution to the problem? You are probably following the **leader-follower** model and, in my experience, while following this model you might succeed in the short term, building a short-term high-performing team, but in the mid-long term, the performance of your team will not improve anymore, they will rely on you to solve the problems and they will be less motivated.
 
 In this article we will explain why the traditional leader-follower model does not work in Software Development and how to transition to a model that gives more autonomy to the employees and ultimately improves the long-term performance of your teams, the **leader-leader model**, proposed by David Marquet in his book “Turn the ship around!”.
